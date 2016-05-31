@@ -1,0 +1,52 @@
+
+
+1. cd (change the dri. to which u wht to upload the folder or file)
+   exmple : cd desktop
+
+	 cd denabank
+
+after that
+
+2.	" git init "
+
+3.	" git add . "
+
+4.	"git commit -m 'comments' "
+
+5.	"git remote add <name> <url>"
+	example:
+	git remote add origin https://github.com/DessTechnologies/DMS_2.1.27.1.git
+
+6.	"git pull <name> master(folder of the project gets master)"  ( Only for updation )
+	example:
+	git pull origin master
+
+7.	"git push <name> master(folder of the project gets master)"
+	EXAMPLE:
+	git push origin master
+
+
+
+branch creation 
+
+
+1.	git checkout -b '<branch name>'
+
+same as adding to git 2 and 3
+
+
+4.	git remote add branch <url> 
+
+5.	git push branch <branch name>
+
+
+
+
+
+
+
+https://github.com/DessTechnologies/Demo.git
+
+
+https://github.com/DessTechnologies/Version2.2.8.1.git
+
